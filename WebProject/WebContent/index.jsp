@@ -8,5 +8,13 @@
 </head>
 <body>
 	<h2>시작파일입니다.</h2>
+	
+	<h3> 선택하시오. </h3>
+		<Select>
+			<option> ### 선택 ### </option>
+			<option> git </option>
+			<option> jsp </option>
+			<option> spring </option>		
+		</Select>
 </body>
 </html>
